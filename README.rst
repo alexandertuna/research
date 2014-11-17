@@ -18,15 +18,11 @@ Introduction
 This package is designed to provide dual-use tools for easy use of taus in your
 analysis. Currently following tools are available:
 
-* **TauSelectionTool:** generic tool to apply a set of requirements on tau
-    candidates
+* **TauSelectionTool:** generic tool to apply a set of requirements on tau candidates
 * **TauSmearingTool:** currently support tau energy corrections
-* **TauEfficiencyCorrectionsTool:** provides identification scale factors and the
-    associated uncertainties
-* **TauTruthMatchingTool:** performs matching of taus to the visible truth tau
-    4-momentum
-* **TauTruthTrackMatchingTool:** performs matching of tracks to truth taus and
-    tracks to truth charged particles
+* **TauEfficiencyCorrectionsTool:** provides identification scale factors and the associated uncertainties
+* **TauTruthMatchingTool:** performs matching of taus to the visible truth tau 4-momentum
+* **TauTruthTrackMatchingTool:** performs matching of tracks to truth taus and tracks to truth charged particles
     
 All relevant information about the actual measurement of these uncertainties can
 be found here: `TauRecommendationsWinterConf2013
